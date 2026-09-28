@@ -76,3 +76,6 @@ footer p{margin-bottom:6px}
 img{height:auto}
 .hero .wrap>*,.feature .wrap>*{min-width:0}
 @media (max-width:820px){.hero img,.feature img{max-width:100%}.nav-buy{font-size:15px}.logo{font-size:16px}h1{font-size:34px}}
+.thanks .btn{margin:6px 0 4px}
+.btn-light{background:var(--petal);color:var(--wine)}
+.btn-light:hover{background:var(--rose);color:#fff}
